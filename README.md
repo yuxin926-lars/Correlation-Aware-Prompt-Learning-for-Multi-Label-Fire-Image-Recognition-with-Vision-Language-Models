@@ -1,0 +1,1 @@
+# Correlation-Aware-Prompt-Learning-for-Multi-Label-Fire-Image-Recognition-with-Vision-Language-Models
